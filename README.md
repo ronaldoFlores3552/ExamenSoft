@@ -1,4 +1,5 @@
 # ExamenSoft
+pip install -r requirements.txt
 
 Examen final del curso:
 
